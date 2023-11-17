@@ -2,6 +2,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: 1px solid salmon
 }
-    
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+
+ul li{
+    display: inline;
+    list-style: none;
 }
