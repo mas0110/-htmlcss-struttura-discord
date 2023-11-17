@@ -7,9 +7,25 @@
 .flex-container{
     display: flex;
     justify-content: center;
+  
 }
 
-ul li{
+nav ul li{
     display: inline;
     list-style: none;
+}
+header{
+    background-color:#3131e8;
+}
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.bianco{
+    background-color: #fff;
+}
+.grigio{
+    background-color: #f4f4f4;
 }
